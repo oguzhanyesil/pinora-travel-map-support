@@ -1,6 +1,6 @@
 Privacy Policy for Pinora Travel Map
 
-Last updated: 23.12.2025
+Last updated: 24.12.2025
 
 Pinora (“the App”) is a travel logging app that lets you add visits (country, city, dates, notes) and generate shareable recap images.
 
@@ -76,7 +76,12 @@ Pinora does not:
 - Share data for analytics beyond advertising requirements
 
 ## Children’s Privacy
-Pinora is not intended for children under 13, and we do not knowingly collect personal data from children.
+Pinora is suitable for all ages.
+
+Pinora does not knowingly collect personal information from children.
+The app does not require account creation, social features, or communication between users.
+
+All travel data entered into the app is stored locally on the device and is under the control of the device owner.
 
 ## Your Choices
 - You can delete visits inside the app.
